@@ -2,6 +2,8 @@
 
 Este projeto é um dashboard interativo desenvolvido com [Streamlit](https://streamlit.io/), que utiliza dados de partidas de futebol fornecidos pela [StatsBomb](https://statsbomb.com/) para análise detalhada de eventos, métricas e visualizações das partidas. O usuário pode selecionar uma competição, temporada e partida específicas e aplicar diversos filtros para explorar os dados.
 
+O projeto está disponível na Streamlit Community Cloud em: https://mprytoluk-dashboard-interativo-futebol.streamlit.app/
+
 ## Estrutura do Projeto
 
 - **app.py**: O arquivo principal da aplicação Streamlit, responsável pela interação com o usuário e exibição das visualizações e métricas.
